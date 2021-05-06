@@ -1,0 +1,23 @@
+.text-center{
+    margin-top: 5rem;
+    color: tomato;
+}
+.film{
+    color: gold;
+    font-size: 1.5em;
+    font: weight 1px;
+    border: 1px;
+}
+body{
+    background-image: rgb(0, 26, 255);
+    background-size: cover;
+}
+#movie{
+    border-radius: 2px;
+}
+
+img{
+    width: 100%;
+    background-color: black;
+    border: 2px solid red;
+}
